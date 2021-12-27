@@ -1,3 +1,9 @@
+# Crash is an online gambling game where a rocket takes up and racks up a multiplier.
+# it can crash before launching or at anytime thereafter.
+# if you cash out before it explodes, you win the multiplier.
+# if not, you lose the bet.
+# this code simulates running the game 100x
+
 import random
 
 a = 0 # how many immediate crashes
